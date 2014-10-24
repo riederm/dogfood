@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Yorkshire Terrier Junior",
+        "manufacturer": "Royal Canin",
+        "image": "http://www.royal-canin.at/typo3temp/GB/product_bag-110_6d1cb1b01b.png",
+        "ingredients": [
+            {
+                "name": "Rohasche",
+                "portion": 7
+            },
+            {
+                "name": "Rohfaser",
+                "portion": 1.3
+            },
+            {
+                "name": "Stärke",
+                "portion": 28.2
+            },
+            {
+                "name": "Stickstofffreie Extrakte",
+                "portion": "33.2"
+            }
+        ]
+    },
+    {
+        "name": "Poodle",
+        "manufacturer": "Royal Canin",
+        "image": "http://www.royal-canin.at/typo3temp/GB/product_bag-110_e1f8058dea.png",
+        "ingredients": [
+            {
+                "name": "Rohasche",
+                "portion": 7
+            },
+            {
+                "name": "Rohfaser",
+                "portion": 1.3
+            },
+            {
+                "name": "Stärke",
+                "portion": 28.2
+            },
+            {
+                "name": "Stickstofffreie Extrakte",
+                "portion": "33.2"
+            }
+        ]
+    },
+    {
+        "name": "Dachshund",
+        "manufacturer": "Royal Canin",
+        "image": "http://www.royal-canin.at/typo3temp/GB/product_bag-110_1b1a84954e.png",
+        "ingredients": [
+            {
+                "name": "Rohasche",
+                "portion": 7
+            },
+            {
+                "name": "Rohfaser",
+                "portion": 1.3
+            },
+            {
+                "name": "Stärke",
+                "portion": 28.2
+            },
+            {
+                "name": "Stickstofffreie Extrakte",
+                "portion": "33.2"
+            }
+        ]
+    },
+    {
+        "name": "Dalmation",
+        "manufacturer": "Royal Canin",
+        "image": "http://www.royal-canin.at/typo3temp/GB/product_bag-110_3bf19b6d29.png",
+        "ingredients": [
+            {
+                "name": "Rohasche",
+                "portion": 7
+            },
+            {
+                "name": "Rohfaser",
+                "portion": 1.3
+            },
+            {
+                "name": "Stärke",
+                "portion": 28.2
+            },
+            {
+                "name": "Stickstofffreie Extrakte",
+                "portion": "33.2"
+            }
+        ]
+    },
+    {
+        "name": "Boxer",
+        "manufacturer": "Royal Canin",
+        "image": "http://www.royal-canin.at/typo3temp/GB/product_bag-110_7bb36e7e61.png",
+        "ingredients": [
+            {
+                "name": "Rohasche",
+                "portion": 7
+            },
+            {
+                "name": "Rohfaser",
+                "portion": 1.3
+            },
+            {
+                "name": "Stärke",
+                "portion": 28.2
+            },
+            {
+                "name": "Stickstofffreie Extrakte",
+                "portion": "33.2"
+            }
+        ]
+    }
+]

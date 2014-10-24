@@ -1,0 +1,24 @@
+<div ng-controller="View1Ctrl as controller">
+    <md-content style="height: 600px;">
+        <input placeholder="Filter" ng-model="filterText" />
+        <section>
+            <md-subheader class="md-subheader-colored">Hundefutter</md-subheader>
+            <md-list layout="vertical">
+                <md-item ng-repeat="food in controller.foodProducts | filter:filterText"  ng-animate=" 'repeater' ">
+                    <md-item-content>
+                        <div class="md-tile-left">
+                            <img ng-src="{{food.image}}" class="face" alt="{{message.who}}">
+                        </div>
+                        <div class="md-tile-content">
+                            <h3>{{food.name}}</h3>
+                            <h4>{{food.manufacturer}}</h4>
+
+
+                        </div>
+                    </md-item-content>
+                </md-item>
+            </md-list>
+        </section>
+    </md-content>
+</div>
+
